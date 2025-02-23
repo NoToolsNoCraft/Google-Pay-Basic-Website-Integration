@@ -1,4 +1,4 @@
-# Pepco Virtual Gift Cards Integration with Google Pay
+# Google Pay Web Setup
 
 This repository demonstrates the integration of Google Pay for a virtual gift card purchase application. It allows users to buy virtual gift cards using Google Pay as a payment method.
 
