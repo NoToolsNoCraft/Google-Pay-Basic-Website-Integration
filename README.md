@@ -22,7 +22,7 @@ This project contains two main files:
 
 #### 1. Clone the Repository
 
-git clone https://github.com/yourusername/pepco-virtual-gift-cards.git
+git clone [https://github.com/yourusername/pepco-virtual-gift-cards.git](https://github.com/NoToolsNoCraft/Google-Pay-Basic-Website-Integration/)
 
 cd pepco-virtual-gift-cards
 
