@@ -23,6 +23,7 @@ This project contains two main files:
 #### 1. Clone the Repository
 
 git clone https://github.com/yourusername/pepco-virtual-gift-cards.git
+
 cd pepco-virtual-gift-cards
 
 
