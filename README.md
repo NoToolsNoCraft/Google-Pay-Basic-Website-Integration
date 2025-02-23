@@ -1,6 +1,6 @@
 # Google Pay Web Setup
 
-This repository demonstrates the integration of Google Pay for a virtual gift card purchase application. It allows users to buy virtual gift cards using Google Pay as a payment method.
+This repository demonstrates the integration of Google Pay for a virtual gift card purchase application. It allows users to buy using Google Pay as a payment method.
 
 This collection will help you set up a Google Pay button in your web app. That's the basic integration. This button is fully functional and triggers the Google Pay checkout.
 
