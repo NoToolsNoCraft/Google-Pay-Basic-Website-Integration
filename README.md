@@ -1,3 +1,33 @@
+# Pepco Virtual Gift Cards Integration with Google Pay
+
+This repository demonstrates the integration of Google Pay for a virtual gift card purchase application. It allows users to buy virtual gift cards using Google Pay as a payment method.
+
+## How to Use
+
+### Prerequisites
+
+Before you can use this integration, make sure you have the following:
+
+- A Google Pay Merchant account. You'll need your `gatewayMerchantId` to replace the placeholder `gatewayMerchantId` in the code.
+- A local or hosted environment to run the application.
+
+### Files
+
+This project contains two main files:
+
+1. **`index.html`** - The HTML file that renders the page and displays the Google Pay button.
+2. **`client.js`** - The JavaScript file that contains the logic for setting up Google Pay and handling the payment process.
+
+### Step-by-Step Guide
+
+#### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/pepco-virtual-gift-cards.git
+cd pepco-virtual-gift-cards
+
+
+
 #### 2. Set Up the Google Pay Button
 
 Open `index.html` and take note of the following:
